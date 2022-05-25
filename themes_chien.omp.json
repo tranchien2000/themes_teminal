@@ -123,7 +123,7 @@
         {
           "foreground": "#f1184c",
           "style": "plain",
-          "template": "=>",
+          "template": " >>",
           "type": "text"
         }
       ],
@@ -135,7 +135,7 @@
   "transient_prompt": {
     "background": "transparent",
     "foreground": "#FFD700",
-    "template": "{{if .Root}}\u26a1 {{end}}=>"
+    "template": "{{if .Root}}\u26a1 {{end}} >>"
   },
   "version": 2
 }
