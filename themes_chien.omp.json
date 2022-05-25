@@ -13,7 +13,7 @@
           },
           "style": "powerline",
           "template": " {{ if .WSL }}WSL at {{ end }}{{.Icon}}",
-          "type": "os"
+          "type": "root"
         },
         {
           "background": "#003543",
